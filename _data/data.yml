@@ -94,17 +94,17 @@ career-profile:
           #title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
 education:
-    - degree: Ph.D., Computer Science & Engineering
+    - degree: Ph.D. in CSE
       university: Penn State University
       time: Aug 2012 - Dec 2020 (Expected)
       details: |
      
-    - degree: M.S., Computer Science & Engineering 
+    - degree: M.S. in CSE
       university: Seoul National University
       time: Mar 2007 - Feb 2009
       details: |
 
-    - degree: B.S., Computer Science & Engineering
+    - degree: B.S. in CSE
       university: Seoul National University
       time: Mar 2003 - Feb 2007
       details: |
@@ -226,33 +226,49 @@ publications:
         authors: M. Jung, W. Choi*, M. Kwon, S. Srikantaiah, J. Yoo, M. Kandemir
         conference: TCAD, vol. 39, no. 8, 2020
         
-      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-        authors: B. Brattoli*, K. Roth*, B. Ommer
-        conference: ICCV, 2019
+      - title: "Fair Write Attribution and Allocation for Consolidated Flash Cache"
+        authors: W. Choi*, B. Urgaonkar, M. Kandemir, M. Jung, D. Evans
+        conference: ASPLOS, 2020
 
-      - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
-        authors: B. Brattoli*, U. Buechler*, B. Ommer
-        conference: ECCV, 2018
+      - title: "Fair Resource Allocation in Consolidated Flash Systems"
+        authors: W. Choi*, B. Urgaonkar, M. Kandemir, M. Jung
+        conference: HotStorage, 2019
 
-      - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
-        authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
-        conference: CVPR, 2017
+      - title: "Invalid Data-Aware Coding to Enhance the Read Performance of High-Density Flash Memories"
+        authors: W. Choi*, M. Jung, M. Kandemir
+        conference: MICRO, 2018
 
-      - title: "Cross and Learn: Cross-Modal Self-Supervision"
-        authors: N. Sayer, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
+      - title: "Parallelizing Garbage Collection with I/O to Improve Flash Resource Utilization"
+        authors: W. Choi*, M. Jung, M. Kandemir, C. Das 
+        conference: HPDC, 2018
 
-      - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
-        authors: O. Blum, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
+      - title: "A Scale-Out Enterprise Storage Architecture"
+        authors: W. Choi*, M. Jung, M. Kandemir, C. Das
+        conference: ICCD, 2017
 
-      - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
-        authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
-        conference: "Nature Communications, 2017"
+      - title: "Exploiting Data Longevity for Enhancing the Lifetime of Flash-based Storage Class Memory"
+        authors: W. Choi*, M. Arjomand, M. Jung, M. Kandemir
+        conference: SIGMETRICS, 2017
         
-      - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
-        authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
+      - title: "An In-Depth Study of Next Generation Interface for Emerging Non-Volatile Memories"
+        authors: W. Choi*, J. Zhang, S. Gao, J. Lee, M. Jung, M. Kandemir
+        conference: NVMSA, 2016
+
+      - title: "NANDFlashSim: High-Fidelity, Micro-Architecture-Aware NAND Flash Memory Simulation"
+        authors: M. Jung, W. Choi*, S. Gao, E. Wilson, D. Donofrio, J. Shalf, M. Kandemir
+        conference: TOS, vol. 12, no. 2, 2016 
+
+      - title: "HIOS: A Host Interface I/O Scheduler for Solid State Disks"
+        authors: M. Jung, W. Choi*, S. Srikantaiah, J. Yoo, M. Kandemir
+        conference: ISCA, 2014 
+
+      - title: "Triple-A: A Non-SSD Based Autonomic All-Flash Array for Scalable High Performance Computing Storage Systems"
+        authors: M. Jung, W. Choi*, J. Shalf, M. Kandemir
+        conference: ASPLOS, 2014 
+
+      - title: "ePRO-MP: A Tool for Profiling and Optimizing Energy and Performance of Mobile Multiprocessor Applications"
+        authors: W. Choi*, H. Kim, W. Song, J. Song, J. Kim
+        conference: Scientific Programming, vol. 17, No. 4, 2009 
 
 skills:
     title: Skills &amp; Proficiency
