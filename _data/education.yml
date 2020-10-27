@@ -1,14 +1,14 @@
-- layout: center
+- layout: top-middle
   name: Penn State University
   dates: Aug 2012 - Dec 2020 (Expected)
   qualification: Ph.D. in Computer Science and Engineering
 
-- layout: center
+- layout: top-middle
   name: Seoul National University
   dates: Mar 2007 - Feb 2009 
   qualification: M.S. in Computer Science and Engineering
 
-- layout: center
+- layout: top-middle
   name: Seoul National University
   dates: Mar 2003 - Feb 2007 
   qualification: B.S. in Computer Science and Engineering
