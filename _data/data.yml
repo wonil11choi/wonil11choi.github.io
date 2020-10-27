@@ -7,24 +7,24 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Biagio Brattoli
-    tagline: Computer Vision and Machine Learning researcher
+    name: Wonil Choi
+    tagline: Ph.D. Student @ Penn State
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: biagio.brattoli@gmail.com
+    email: wuc138@cse.psu.edu
     phone: 
-    website: bbrattoli.github.io/publications/ #do not add http://
-    linkedin: biagiobrattoli
-    github: bbrattoli
+    website: wonil11choi.github.io #do not add http://
+    linkedin:
+    github:
     gitlab:
     bitbucket:
-    twitter: '@BiagioBrattoli'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
+    #languages:
       - idiom: English
         level: Fluent
 
@@ -34,7 +34,7 @@ sidebar:
       - idiom: German
         level: Colloquial
 
-    interests:
+    #interests:
       - item: Guitar
         link:
 
