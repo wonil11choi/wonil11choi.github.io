@@ -94,17 +94,17 @@ career-profile:
           #title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
 education:
-    - degree: Ph.D. in CSE
+    - degree: Ph.D., Computer Science & Engineering
       university: Penn State University
       time: Aug 2012 - Dec 2020 (Expected)
       details: |
      
-    - degree: M.S. in CSE
+    - degree: M.S., Computer Science & Engineering 
       university: Seoul National University
       time: Mar 2007 - Feb 2009
       details: |
 
-    - degree: B.S. in CSE
+    - degree: B.S., Computer Science & Engineering
       university: Seoul National University
       time: Mar 2003 - Feb 2007
       details: |
@@ -126,53 +126,24 @@ education:
 
 
 educationcomplete:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 - current
+    - degree: Ph.D. in Computer Science and Engineering
+      university: Pennsylvania State University
+      time: Aug 2012 - Dec 2020 (Expected)
       details: |
+	- Advisor: Prof. Mahmut Kandemir
+	- Thesis: Case-Specific Lifetime Management Strategies for Long-Lasting Flash Devices 
 
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
+    - degree: M.S. in Computer Science and Engineering
+      university: Seoul National University
+      time: Mar 2007 - Feb 2009
       details: |
-        Unsupervised deep learning for automatic behavior analysis
-
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
-
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
+     
+    - degree: B.S. in Computer Science and Engineering
+      university: Seoul National University
+      time: Mar 2003 - Feb 2007
       details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-          - Deep learning
-          - Hand Gesture
-
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-        Master degree in Computer Science and Artificial Intelligence
-
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-        Master degree in Software Engineering
-    
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
-        Master degree in Computer Engineering
-
-
+   
+  
 #experiences:
     #- role: Lead Developer
       #time: 2015 - Present
