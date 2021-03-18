@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Wonil Choi
-    tagline: Ph.D. Student @ Penn State
+    tagline: Assistant Professor @ Hanyang University (ERICA)
     avatar: wonil_pic.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: wuc138@cse.psu.edu
+    email: wonilchoi@hanyang.ac.kr
     phone: 
     website: wonil11choi.github.io #do not add http://
     linkedin:
@@ -94,7 +94,7 @@ career-profile:
 education:
     - degree: Ph.D. in CSE
       university: Penn State University
-      time: Aug 2012 - Dec 2020 (Expected)
+      time: Aug 2012 - Dec 2020
       details: |
      
     - degree: M.S. in CSE
@@ -126,7 +126,7 @@ education:
 educationcomplete:
     - degree: Ph.D. in Computer Science and Engineering
       university: Pennsylvania State University
-      time: Aug 2012 - Dec 2020 (Expected)
+      time: Aug 2012 - Dec 2020
       details: |		
         - Advisor: Prof. Mahmut Kandemir
         - Thesis: Case-Specific Lifetime Management Strategies for Long-Lasting Flash Devices 
